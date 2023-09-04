@@ -1,0 +1,125 @@
+nav{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background: #15202b;
+  
+    padding: 10px;
+
+
+
+}
+
+
+ul{
+    position: relative;
+
+    
+}
+
+li{
+    display: inline-block;
+    text-transform: uppercase;
+    margin-left: 8px;
+}
+.Bi{
+    max-width: 800px;
+    max-height: 6000px;
+    margin: 40px auto;
+    text-align: center;
+    padding: 20px;
+    box-shadow: rgba(0, 0, 0, 1) 0px 1px 4px;
+    background: #EFEEEE;
+   
+}
+.Bii {
+  max-width: 500px ;
+  background: #EFEEEE;
+  box-shadow: rgba(0, 0, 0, 1) 0px 1px 4px;
+  padding: 20px;
+  margin-top: 40px;
+  margin-left: 50px;
+  font-size: 20px;
+
+}
+
+
+
+.searh-button {
+ background:red;
+  color: white;
+  cursor: pointer;
+  border: 1px;
+  border-radius: 5px;
+  margin: 15px;
+  box-shadow: rgba(0, 0, 0, 1) 0px 1px 4px;
+  
+      }
+      
+
+.searh-input{
+background:#D7D4D4;
+  color: black;
+  cursor: pointer;
+  border: 10px;
+  box-shadow: rgba(0, 0, 0, 1) 0px 1px 4px;
+  
+ 
+
+
+}
+
+.Home{
+    
+        max-width: 800px;
+        margin: 50px auto;
+        padding: 20px;
+        box-shadow: rgba(0, 0, 0, 1) 0px 1px 4px;
+        border-radius: 5px;
+        background-color: white; 
+      
+}
+
+a{
+      text-decoration: none;
+      color: whitesmoke;
+      transition: 0.5s;
+    }
+a:hover{
+    color: skyblue;
+}
+
+
+
+.one{
+    font-size: 30px;
+    margin-right: 200px;
+    text-decoration: none;
+
+}
+
+
+.two {
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-column-gap: 10px; 
+    font-size: 25px;
+    margin-left: 80px;
+}
+h2{
+    text-align: center;
+}
+
+
+img{
+    
+    width: 600px;
+    height: 50 0px;
+    margin-top: 40px;
+    margin-left: 200px;
+
+   
+}
+.text-home{
+    display: flex;
+}
